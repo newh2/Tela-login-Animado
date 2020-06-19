@@ -13,11 +13,12 @@
   </a>
   </p>
   
-  <p align="center">
-
+<p align="center">
+  <a href="#rocket-desafios">Desafios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
 </p>
 
-  <a href="#rocket-desafios">Desafios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 - [x] Fazer o formulário aparecer, suavemente, quando a página abrir
 - [x] Fazer os campos aparecem da esquerda pra direita, suavizando a entrada e fazendo-os entrar em momentos distintos
 - [x] Quando clicar em Login, fazer o formulário sair da tela, indo para baixo
